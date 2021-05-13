@@ -107,6 +107,7 @@ def full_process():
             result = np.load(result_path+organ+".npy")
             result = result > 0
             result = result.transpose(1,2,0)
+            #if(arr.count(organ[0].lower())>0):
             rtstruct.add_roi(
               mask = result, 
               color = clr, 
