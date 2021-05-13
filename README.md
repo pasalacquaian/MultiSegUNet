@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/allen-john-binu/MutiSegUnet/demo/logo.png" height="300"/>
+  <img src="https://raw.githubusercontent.com/allen-john-binu/MultiSegUNet/blob/main/demo/sample9.png" height="300"/>
 </p>
 <p align="center">
   <em>MultiSegUnet : Multi Model approach to Thoracic CT Image segmentation</em>
