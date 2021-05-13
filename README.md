@@ -1,4 +1,9 @@
-# MultiSegUNet
+<p align="center">
+  <img src="https://raw.githubusercontent.com/allen-john-binu/MutiSegUnet/demo/logo.png" height="300"/>
+</p>
+<p align="center">
+  <em>MultiSegUnet : Multi Model approach to Thoracic CT Image segmentation</em>
+</p>
 
 ## Requirements
 
@@ -6,3 +11,7 @@ Python 3.8 or later with all [requirements.txt](https://github.com/ultralytics/y
 ```bash
 $ pip install -r requirements.txt
 ```
+
+## Contact
+
+**Issues should be raised directly in the repository.** For professional support requests email at allenjohnbinu@gmail.com , manuthomas88@gmail.com or ajaytjose@gmail.com.
